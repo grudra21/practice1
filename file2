@@ -1,3 +1,1 @@
-hello world
-this is second cls git
-this is practce section  
+docker build --build-arg TMDB_V3_API_KEY=1bee66055483ec54cf85d41c2f13a330 -t netflix .
